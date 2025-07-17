@@ -7,7 +7,6 @@
 <img align="right" width="120px" height="110px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🎓 I will be majoring in **Business and Information Systems** at **American University in Bulgaria (AUBG)**
-- 💻 Currently an **Intern** at **Weband**
 - 🎓 Graduate from the **Software University (SoftUni)** as a **Back-End Software Engineer with C#**
 
 ---
