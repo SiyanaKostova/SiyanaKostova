@@ -6,7 +6,7 @@
 
 <img align="right" width="120px" height="110px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🎓 I will be majoring in **Business and Computer Science** at **American University in Bulgaria (AUBG)**
+- 🎓 I will be majoring in **Business Administration and Computer Science** at **American University in Bulgaria (AUBG)**
 - 🎓 Graduated from the **Software University (SoftUni)** as a **Back-End Software Engineer with C#**
 
 ---
